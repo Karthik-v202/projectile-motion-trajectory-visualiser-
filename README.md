@@ -21,9 +21,8 @@ This MATLAB script calculates and visualizes the **2D projectile motion** of an 
 ## 📸 Sample Output
 
 ![Artilary fire](https://github.com/Karthik-v202/projectile-motion-trajectory-visualiser-/blob/main/Artilary%20fire.jpg)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Canon shoot](https://github.com/Karthik-v202/projectile-motion-trajectory-visualiser-/blob/main/Canon%20shoot.png)
+![Sniper Bullet](https://github.com/Karthik-v202/projectile-motion-trajectory-visualiser-/blob/main/Sniper-bullet.jpg)
 
 
 ## 🧪 How to Use
