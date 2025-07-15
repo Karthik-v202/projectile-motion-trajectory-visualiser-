@@ -20,7 +20,7 @@ This MATLAB script calculates and visualizes the **2D projectile motion** of an 
 
 ## 📸 Sample Output
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Artilary fire](https://github.com/Karthik-v202/projectile-motion-trajectory-visualiser-/blob/main/Artilary%20fire.jpg)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
@@ -33,7 +33,7 @@ This MATLAB script calculates and visualizes the **2D projectile motion** of an 
 
 ### 🚀 Run Instructions
 1. Open MATLAB
-2. Copy the code from [`projectile_motion.m`](Projectile_Motion.mlx) into a new script file.
+2. Copy the code from [`projectile_motion.mlx`](Projectile_Motion.mlx) into a new script file.
 3. Run the script and follow the input prompts:
    - Enter launch angle in degrees
    - Enter initial velocity in m/s
